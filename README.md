@@ -1,5 +1,5 @@
 ## Hellow World I'm Mumu 👋
-![Mumu](mumu.png)
+![Mumu](img/mumu.png)
 
 #### Languages and Tools:
 
