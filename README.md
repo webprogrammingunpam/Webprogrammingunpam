@@ -1,4 +1,4 @@
-## Hellow World I'm Mumu 👋
+## Hello World I'm Mumu 👋
 ![Mumu](img/mumu.png)
 
 #### Languages and Tools:
