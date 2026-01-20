@@ -35,9 +35,9 @@
 ## HTML 
 #### 1. Latihan Hello World
 #### Link Github
-https://webprogrammingunpam.github.io/LatihanHelloWorld/
+https://
 #### Link Web
-(https://latihanhelloworld.10001mb.com/)
+https://latihanhelloworld.10001mb.com
 #### 2. Latihan Tag HTML 
 #### Link Github            
 #### Link Web
