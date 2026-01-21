@@ -31,7 +31,7 @@
 ###### 3. Latihan Paragraf, https://webprogrammingunpam.github.io/Latihan_Paragraf & https://latihanparagraf.10001mb.com
 ###### 4. Latihan Heading, https://webprogrammingunpam.github.io/Latihan_Heading & https://latihanheading.10001mb.com
 ###### 5. Latihan List, https://webprogrammingunpam.github.io/Latihan_List & https://latihanlist.10001mb.com
-###### 5. Latihan HyperLink, https://webprogrammingunpam.github.io/Latihan_Hyperlink & https://latihanhyperlink.10001mb.com
+###### 6. Latihan HyperLink, https://webprogrammingunpam.github.io/Latihan_Hyperlink & https://latihanhyperlink.10001mb.com
 
 
 
