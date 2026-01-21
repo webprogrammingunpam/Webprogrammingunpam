@@ -34,11 +34,9 @@
 #### Review Latihan Website 
 ## HTML 
 #### 1. Latihan Hello World
-#### Link Github & Link Web
-https:// Link Web https://latihanhelloworld.10001mb.com
+#### Link Github & Link Web https:// Link Web https://latihanhelloworld.10001mb.com
 #### 2. Latihan Tag HTML 
-#### Link Github & Link Web
-https://webprogrammingunpam.github.io/Latihan_TagHTML Link Web https://latihantaghtml.10001mb.com
+#### Link Github & Link Web https://webprogrammingunpam.github.io/Latihan_TagHTML & https://latihantaghtml.10001mb.com
 #### 3. Latihan Paragraf
 
 
