@@ -39,7 +39,9 @@ https://
 #### Link Web
 https://latihanhelloworld.10001mb.com
 #### 2. Latihan Tag HTML 
-#### Link Github            
+#### Link Github
+https://
 #### Link Web
+latihantaghtml.10001mb.com
 
 
