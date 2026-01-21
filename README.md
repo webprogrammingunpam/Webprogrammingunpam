@@ -38,6 +38,7 @@
 #### 2. Latihan Tag HTML 
 #### Github & Web https://webprogrammingunpam.github.io/Latihan_TagHTML & https://latihantaghtml.10001mb.com
 #### 3. Latihan Paragraf
+#### Github & Web https://webprogrammingunpam.github.io/Latihan_Paragraf & https://latihanparagraf.10001mb.com
 
 
 
