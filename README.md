@@ -39,6 +39,7 @@ https:// Link Web https://latihanhelloworld.10001mb.com
 #### 2. Latihan Tag HTML 
 #### Link Github & Link Web
 https://webprogrammingunpam.github.io/Latihan_TagHTML Link Web https://latihantaghtml.10001mb.com
+#### 3. Latihan Paragraf
 
 
 
