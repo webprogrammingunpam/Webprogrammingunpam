@@ -42,6 +42,6 @@ https://latihanhelloworld.10001mb.com
 #### Link Github
 https://
 #### Link Web
-latihantaghtml.10001mb.com
+https://latihantaghtml.10001mb.com
 
 
