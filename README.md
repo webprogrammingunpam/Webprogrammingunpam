@@ -40,7 +40,7 @@ https://
 https://latihanhelloworld.10001mb.com
 #### 2. Latihan Tag HTML 
 #### Link Github
-https://
+https://webprogrammingunpam.github.io/Latihan_TagHTML
 #### Link Web
 https://latihantaghtml.10001mb.com
 
