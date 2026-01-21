@@ -23,14 +23,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </div>
-
-#### My GitHub Stats
-
-![Webprogrammingunpam GitHub stats](https://github-readme-stats.vercel.app/api?username=Webprogrammingunpam&show_icons=true&bg_color=00000000)
-
-
-
-
+  
 #### Review Latihan Website 
 ## HTML 
 #### 1. Latihan Hello World, https://webprogrammingunpam.github.io/Latihan_HelloWorld & https://latihanhelloworld.10001mb.com
