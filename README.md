@@ -26,7 +26,7 @@
   
 #### Review Latihan Website 
 [![My Skills](https://skillicons.dev/icons?i=html,&theme=light)](https://skillicons.dev)
-## HTML 
+#### HTML 
 ###### 1. Latihan Hello World, https://webprogrammingunpam.github.io/Latihan_HelloWorld & https://latihanhelloworld.10001mb.com
 ###### 2. Latihan Tag HTML, https://webprogrammingunpam.github.io/Latihan_TagHTML & https://latihantaghtml.10001mb.com
 ###### 3. Latihan Paragraf, https://webprogrammingunpam.github.io/Latihan_Paragraf & https://latihanparagraf.10001mb.com
