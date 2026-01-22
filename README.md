@@ -38,7 +38,7 @@
 ###### 9. Latihan Table, https://webprogrammingunpam.github.io/Latihan_Table &
 ###### 10. Lanjutan Table Margin, https://webprogrammingunpam.github.io/Lanjutan_TableMargin &
 ###### 11. Latihan From, https://webprogrammingunpam.github.io/Latihan_From &
-###### 12. Lanjutan From, https://webprogrammingunpam.github.io/Latihan_From &
+###### 12. Lanjutan From, https://webprogrammingunpam.github.io/Lanjutan_From &
 
 [![My Skills](https://skillicons.dev/icons?i=css,&theme=light)](https://skillicons.dev)
 ##### CSS
