@@ -25,7 +25,7 @@
   </div>
   
 #### Review Latihan Website 
-## HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+## HTML [![My Skills](https://skillicons.dev/icons?i=html,&theme=light)](https://skillicons.dev)
 ###### 1. Latihan Hello World, https://webprogrammingunpam.github.io/Latihan_HelloWorld & https://latihanhelloworld.10001mb.com
 ###### 2. Latihan Tag HTML, https://webprogrammingunpam.github.io/Latihan_TagHTML & https://latihantaghtml.10001mb.com
 ###### 3. Latihan Paragraf, https://webprogrammingunpam.github.io/Latihan_Paragraf & https://latihanparagraf.10001mb.com
