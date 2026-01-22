@@ -36,6 +36,7 @@
 ###### 8. Latihan Image, https://webprogrammingunpam.github.io/Latihan_Image &
 ###### 9. Latihan Table, https://webprogrammingunpam.github.io/Latihan_Table &
 ###### 10. Lanjutan Table Margin, https://webprogrammingunpam.github.io/Lanjutan_TableMargin &
+####### 11. Latihan From, https://webprogrammingunpam.github.io/Lanjutan_TableMargin &
 
 
 
