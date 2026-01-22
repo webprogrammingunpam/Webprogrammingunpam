@@ -25,6 +25,7 @@
   </div>
   
 #### Review Latihan Website 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 ##### HTML
 [![My Skills](https://skillicons.dev/icons?i=html,&theme=light)](https://skillicons.dev)
 ##### GitHub 1. [Latihan Hello World](https://webprogrammingunpam.github.io/Latihan_HelloWorld), 2. [Latihan Tag HTML](https://webprogrammingunpam.github.io/Latihan_TagHTML), 3. [Latihan Paragraf](https://webprogrammingunpam.github.io/Latihan_Paragraf), 4. [Latihan Heading](https://webprogrammingunpam.github.io/Latihan_Heading), 5. [Latihan List](https://webprogrammingunpam.github.io/Latihan_List), 6. [Latihan HyperLink](https://webprogrammingunpam.github.io/Latihan_Hyperlink), 7. [Lanjutan HyperLink](https://webprogrammingunpam.github.io/Lajutan-halaman8-Hyperlink), 8. [Latihan Image](https://webprogrammingunpam.github.io/Latihan_Image), 9. [Latihan Table](https://webprogrammingunpam.github.io/Latihan_Table), 10. [Lanjutan Table Margin](https://webprogrammingunpam.github.io/Lanjutan_TableMargin), 11. [Latihan From](https://webprogrammingunpam.github.io/Latihan_From), 12. [Lanjutan From](https://webprogrammingunpam.github.io/Lanjutan_From)
