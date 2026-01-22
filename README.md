@@ -32,7 +32,7 @@
 ##### CSS
 [![My Skills](https://skillicons.dev/icons?i=css,&theme=light)](https://skillicons.dev)
 
-##### GitHub 1.
+##### GitHub 1. [Latihan Pemdahuluan](https://webprogrammingunpam.github.io/Latihan_Pendahuluan/), 2. 
 
 ##### Website 1.
 
