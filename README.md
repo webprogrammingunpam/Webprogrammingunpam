@@ -34,7 +34,8 @@
 ###### 6. Latihan HyperLink, https://webprogrammingunpam.github.io/Latihan_Hyperlink & https://latihanhyperlink.10001mb.com
 ###### 7. Lanjutan HyperLink, https://webprogrammingunpam.github.io/Lajutan-halaman8-Hyperlink & https://lanjutanhyperlink.10001mb.com
 ###### 8. Latihan Image, https://webprogrammingunpam.github.io/Latihan_Image &
-###### 8. Latihan Table, https://webprogrammingunpam.github.io/Latihan_Table &
+###### 9. Latihan Table, https://webprogrammingunpam.github.io/Latihan_Table &
+###### 10. Lanjutan Table Margin, https://webprogrammingunpam.github.io/Lanjutan_TableMargin &
 
 
 
