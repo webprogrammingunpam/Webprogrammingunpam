@@ -27,7 +27,7 @@
 #### Review Latihan Website 
 [![My Skills](https://skillicons.dev/icons?i=html,&theme=light)](https://skillicons.dev)
 ##### HTML 
-###### 1. [Latihan Hello World](https://webprogrammingunpam.github.io/Latihan_HelloWorld), [Latihan Tag HTML](https://webprogrammingunpam.github.io/Latihan_TagHTML), [Latihan Paragraf](https://webprogrammingunpam.github.io/Latihan_Paragraf), [Latihan Heading](https://webprogrammingunpam.github.io/Latihan_Heading), 
+###### 1. [Latihan Hello World](https://webprogrammingunpam.github.io/Latihan_HelloWorld), 2. [Latihan Tag HTML](https://webprogrammingunpam.github.io/Latihan_TagHTML), 3. [Latihan Paragraf](https://webprogrammingunpam.github.io/Latihan_Paragraf), 4. [Latihan Heading](https://webprogrammingunpam.github.io/Latihan_Heading), 
 ###### 5. Latihan List, https://webprogrammingunpam.github.io/Latihan_List & https://latihanlist.10001mb.com
 ###### 6. Latihan HyperLink, https://webprogrammingunpam.github.io/Latihan_Hyperlink & https://latihanhyperlink.10001mb.com
 ###### 7. Lanjutan HyperLink, https://webprogrammingunpam.github.io/Lajutan-halaman8-Hyperlink & https://lanjutanhyperlink.10001mb.com
