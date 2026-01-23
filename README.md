@@ -32,7 +32,7 @@
 ##### CSS
 [![My Skills](https://skillicons.dev/icons?i=css,&theme=light)](https://skillicons.dev)
 
-##### GitHub 1. [Latihan Pemdahuluan](https://webprogrammingunpam.github.io/Latihan_Pendahuluan/), 2. [Latihan Anatomi](https://webprogrammingunpam.github.io/Latihan_Anatomi/), 3. [Latihan Embed](https://webprogrammingunpam.github.io/Latihan_Embed), 4. [Latihan FontStyling](https://webprogrammingunpam.github.io/Latihan_FontStyling), 5. [Latihan_TextStyling]( https://webprogrammingunpam.github.io/Latihan_TextStyling), 6. 
+##### GitHub 1. [Latihan Pemdahuluan](https://webprogrammingunpam.github.io/Latihan_Pendahuluan/), 2. [Latihan Anatomi](https://webprogrammingunpam.github.io/Latihan_Anatomi/), 3. [Latihan Embed](https://webprogrammingunpam.github.io/Latihan_Embed), 4. [Latihan FontStyling](https://webprogrammingunpam.github.io/Latihan_FontStyling), 5. [Latihan_TextStyling]( https://webprogrammingunpam.github.io/Latihan_TextStyling), 6. [Latihan_Background](https://webprogrammingunpam.github.io/Latihan_Background), 7. [](), 8. [](), 9. [](), 10. [](),
 
 
 
