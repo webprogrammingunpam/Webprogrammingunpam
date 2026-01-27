@@ -34,7 +34,7 @@
 ##### GitHub 1. [Latihan Pemdahuluan](https://webprogrammingunpam.github.io/Latihan_Pendahuluan/), 2. [Latihan Anatomi](https://webprogrammingunpam.github.io/Latihan_Anatomi/), 3. [Latihan Embed](https://webprogrammingunpam.github.io/Latihan_Embed), 4. [Latihan FontStyling](https://webprogrammingunpam.github.io/Latihan_FontStyling), 5. [Latihan_TextStyling]( https://webprogrammingunpam.github.io/Latihan_TextStyling), 6. [Latihan_Background](https://webprogrammingunpam.github.io/Latihan_Background), 7. [Latihan_Selector](https://webprogrammingunpam.github.io/Latihan_Selector), 8. [Latihan_PseudoClass]( https://webprogrammingunpam.github.io/Latihan_PseudoClass), 9. [Latihan_Inheritance](https://webprogrammingunpam.github.io/Latihan_Inheritanc), 10. [Latihan_Specificity](https://webprogrammingunpam.github.io/Latihan_Specificity),
 #### Review Latihan JavaScript
 [![My Skills](https://skillicons.dev/icons?i=javascript,&theme=light)](https://skillicons.dev)
-##### GitHub 1. [Latihan_Menjalankan_JavaScript_Internal](https://webprogrammingunpam.github.io/Latihan_Menjalankan_JavaScript_Internal), 2.[Latihan_Menjalankan_JavaScript_eksternal](https://webprogrammingunpam.github.io/Latihan_Menjalankan_JavaScript_eksternal),  3.[Variabel](), 4.[](), 5.[](),
+##### GitHub 1. [Latihan_Menjalankan_JavaScript_Internal](https://webprogrammingunpam.github.io/Latihan_Menjalankan_JavaScript_Internal), 2.[Latihan_Menjalankan_JavaScript_eksternal](https://webprogrammingunpam.github.io/Latihan_Menjalankan_JavaScript_eksternal),  3.[Latihan_Variabel](https://webprogrammingunpam.github.io/Latihan_Variabel), 4.[](), 5.[](),
 
 
 
